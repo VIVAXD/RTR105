@@ -8,7 +8,7 @@
     8  man who
     9  uname
    10  uname -a
-   11  echo $0
+   11  echo $0  (runāt ar datoru)
    12  sh
    13  color e
    14  set color e
@@ -22,18 +22,18 @@
    22  col
    23  pwd
    24  ..
-   25  cd ..
+   25  cd ..       (mainīt atrašanās vietu /)
    26  cd ...
-   27  cd .
-   28  cd home$
-   29  clear
-   30  pwd
+   27  cd .        (kāpt uz vietas)
+   28  cd home$     (aiziet uz sākumu)
+   29  clear          
+   30  pwd       (kur es atrodos)
    31  /ls
    32  cd
-   33  ls -l
-   34  ls -a
-   35  ls -l -a
-   36  pwd
+   33  ls -l         (saraksts ar objektiem)
+   34  ls -a        (saraksts ar izlases objektiem)
+   35  ls -l -a      (pilns saraksts)
+   36  pwd           
    37  cd .
    38  pwd
    39  cd ..
